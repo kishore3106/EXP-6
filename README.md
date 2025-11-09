@@ -2,8 +2,8 @@
 # EXP No. : 6 CHARACTERISTICS M OF LVDT 
 ## NAME : KISHORE B 
 ## REG : 212224100032
-## AIM:To measure output voltage w.r.t the displacement of the core on the LVDT kit and
-find the graphical relationship between the two.
+## AIM:
+To measure output voltage w.r.t the displacement of the core on the LVDT kit and find the graphical relationship between the two.
 
 ## APPARATUS: - LVDT kit, Multimeter
 
